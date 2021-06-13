@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5f4533dcddeaeddeaabf8f5982b5d673",
+    "revision": "8a2e2d3381e25e086c325a4e9439b40c",
     "url": "/index.html"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/7.12eae520.chunk.css"
   },
   {
-    "revision": "2e4df0cb76f2a83b143a",
+    "revision": "4e3f377a0356ee6987e5",
     "url": "/static/css/main.35010da7.chunk.css"
   },
   {
@@ -60,8 +60,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/8.67a6518c.chunk.js"
   },
   {
-    "revision": "2e4df0cb76f2a83b143a",
-    "url": "/static/js/main.981c7338.chunk.js"
+    "revision": "4e3f377a0356ee6987e5",
+    "url": "/static/js/main.05d97e2f.chunk.js"
   },
   {
     "revision": "c8db9230285314a48698",
@@ -624,6 +624,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/ISF_logo.6f344aca.png"
   },
   {
+    "revision": "a4a6b268c05159f3468c1b30b3d8cd20",
+    "url": "/static/media/Instagram.a4a6b268.png"
+  },
+  {
     "revision": "571eb0de1e9077d04d6e214e929f97a8",
     "url": "/static/media/Inter_2.571eb0de.jpg"
   },
@@ -1000,6 +1004,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Tonneau_logo.fec79f7b.png"
   },
   {
+    "revision": "ad745c23e85fd556f0bb064562463b99",
+    "url": "/static/media/Twitter.ad745c23.png"
+  },
+  {
     "revision": "b625df33fbdf807c028dd39f5dcdb849",
     "url": "/static/media/UA_Logo_blanc.b625df33.png"
   },
@@ -1086,10 +1094,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0faa0d82d10ef2c926436053e71da13e",
     "url": "/static/media/insta_white.0faa0d82.png"
-  },
-  {
-    "revision": "a4a6b268c05159f3468c1b30b3d8cd20",
-    "url": "/static/media/instagram.a4a6b268.png"
   },
   {
     "revision": "f75388dff1244488af7e428a919a9d68",
@@ -1238,10 +1242,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "836716a70231224bf2088eec57ba7a64",
     "url": "/static/media/sport_9.836716a7.jpg"
-  },
-  {
-    "revision": "ad745c23e85fd556f0bb064562463b99",
-    "url": "/static/media/twitter.ad745c23.png"
   },
   {
     "revision": "e1fcbc23955bc187dfed613952b11c33",

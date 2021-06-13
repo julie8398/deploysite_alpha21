@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8a2e2d3381e25e086c325a4e9439b40c",
+    "revision": "d8a066200a27906fa3aaad79a592526a",
     "url": "/index.html"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/7.12eae520.chunk.css"
   },
   {
-    "revision": "4e3f377a0356ee6987e5",
+    "revision": "b018cfc2a6a001ca680c",
     "url": "/static/css/main.35010da7.chunk.css"
   },
   {
@@ -60,8 +60,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/8.67a6518c.chunk.js"
   },
   {
-    "revision": "4e3f377a0356ee6987e5",
-    "url": "/static/js/main.05d97e2f.chunk.js"
+    "revision": "b018cfc2a6a001ca680c",
+    "url": "/static/js/main.4b188638.chunk.js"
   },
   {
     "revision": "c8db9230285314a48698",
@@ -624,10 +624,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/ISF_logo.6f344aca.png"
   },
   {
-    "revision": "a4a6b268c05159f3468c1b30b3d8cd20",
-    "url": "/static/media/Instagram.a4a6b268.png"
-  },
-  {
     "revision": "571eb0de1e9077d04d6e214e929f97a8",
     "url": "/static/media/Inter_2.571eb0de.jpg"
   },
@@ -948,10 +944,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/ReseauxButtons_C5.506a3df6.png"
   },
   {
-    "revision": "ffdcffd0c4664fb4e36dc56d00081028",
-    "url": "/static/media/Site.ffdcffd0.png"
-  },
-  {
     "revision": "027c5bd03cbc637a898d8fec997f8dff",
     "url": "/static/media/Squadra_logo.027c5bd0.png"
   },
@@ -1002,10 +994,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fec79f7b073144e1798d6e74f9dba11d",
     "url": "/static/media/Tonneau_logo.fec79f7b.png"
-  },
-  {
-    "revision": "ad745c23e85fd556f0bb064562463b99",
-    "url": "/static/media/Twitter.ad745c23.png"
   },
   {
     "revision": "b625df33fbdf807c028dd39f5dcdb849",
@@ -1096,6 +1084,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/insta_white.0faa0d82.png"
   },
   {
+    "revision": "a4a6b268c05159f3468c1b30b3d8cd20",
+    "url": "/static/media/instagram_icon.a4a6b268.png"
+  },
+  {
     "revision": "f75388dff1244488af7e428a919a9d68",
     "url": "/static/media/inte_1.f75388df.jpg"
   },
@@ -1166,6 +1158,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fc157f6a933128c961ef7760d02a078d",
     "url": "/static/media/pompoms_2.fc157f6a.jpg"
+  },
+  {
+    "revision": "ffdcffd0c4664fb4e36dc56d00081028",
+    "url": "/static/media/site_icon.ffdcffd0.png"
   },
   {
     "revision": "d95244bab956a3cb17abd80867085894",
@@ -1242,6 +1238,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "836716a70231224bf2088eec57ba7a64",
     "url": "/static/media/sport_9.836716a7.jpg"
+  },
+  {
+    "revision": "ad745c23e85fd556f0bb064562463b99",
+    "url": "/static/media/twitter_icon.ad745c23.png"
   },
   {
     "revision": "e1fcbc23955bc187dfed613952b11c33",
